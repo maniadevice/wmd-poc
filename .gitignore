@@ -1,0 +1,3 @@
+*.bin.gz
+*.kv*
+Pipfile.lock
